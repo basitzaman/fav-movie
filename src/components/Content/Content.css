@@ -1,0 +1,58 @@
+.content-wrapper{
+    margin-top: -7.5vw;
+    position: relative;
+    background-color: rgb(30, 30, 30);
+    margin-bottom: -5vw;
+}
+
+.developer-info{
+    color: white;
+    text-align: center;
+    padding-bottom: 0vw;
+    padding-top: 3vw;
+}
+
+ul.icons{
+    cursor: default;
+    list-style: none;
+    text-align: center;
+    padding-bottom: 1.7vw;
+    color: aliceblue;
+}
+
+ul.icons li{
+    display: inline-block;
+    margin: 0 0.5vw 0 0;
+}
+
+ul.icons li a{
+    color: aqua;
+}
+.column {
+    float: left;
+    width: 32.33%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  img{
+    width:101%;
+  }
+  #section{
+    background-color: black;
+    width: auto;
+    padding: 10px 10px;
+    
+  }
+  h1{
+    color: white;
+    text-align: center;
+    padding: 50px;
+  }
+/* 
+ */
